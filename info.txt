@@ -1,0 +1,8 @@
+Player board
+* : empty spot
+$ : flag as bomb 
+0-8 : number of bombs adjacet to spot
+
+Built in board
+$ : bomb
+0-8 : number of bombs adjacent to spot
